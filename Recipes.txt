@@ -3,5 +3,7 @@ welcome to Recipes kitchen.
 Jammun
 Vada
 Dosa
+pizz
+burger
 
 Thank you:)
